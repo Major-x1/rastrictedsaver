@@ -9,6 +9,8 @@ opencv-python-headless
 python-decouple
 requests
 speedtest-cli
-Flask==2.2.2
+Flask==1.1.2
 gunicorn==20.1.0
-aiohttp==3.8.2
+Jinja2==3.0.3
+werkzeug==2.0.2
+itsdangerous==2.0.1
